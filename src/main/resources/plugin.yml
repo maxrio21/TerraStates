@@ -1,0 +1,9 @@
+name: MineStates
+version: '${project.version}'
+main: com.plugin.minestates.Main
+api-version: 1.17
+authors: [ maxrio22 ]
+description: The most complete economy plugin
+commands:
+  ms:
+    description: dineros
